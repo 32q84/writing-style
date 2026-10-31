@@ -7,6 +7,7 @@ Use this library to write, rewrite or compare copy in a chosen style. Start with
 | [Builder](styles/builder.md) | Explain something as the person building or using it, speaking to peers. |
 | [Brand](styles/brand.md) | Present a product, capability or announcement with deliberate structure. |
 | [Unhinged](styles/unhinged.md) | Make a real point through exaggeration, incongruity or deadpan comedy. |
+| [Pitch](styles/pitch.md) | Make first contact with a prospect: say what you sell, show the catalogue, offer samples. |
 
 ## Give the writer a brief
 
